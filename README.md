@@ -1,8 +1,5 @@
-Here’s a **cleaner, more polished, more minimal GitHub-ready README**, including a short explanation on how to generate the SHA-256 hash for your release ZIP on Windows, Linux, and macOS.
 
----
-
-# paradise bootstrapper
+# bootstrapper
 
 This is a simple bootstrapper written in rust by me while I was learning rust. Sorry for shit code :P
 
